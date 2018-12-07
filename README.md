@@ -2,4 +2,4 @@
 
 Basic C++ source codes for the beginners :)
 
-For use with Visual C++ 2017.
+For use with Visual Studio 2017.
