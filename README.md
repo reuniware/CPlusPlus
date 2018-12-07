@@ -1,3 +1,3 @@
 # CPlusPlus
 
-Basic C++ source code for the beginners :)
+Basic C++ source codes for the beginners :)
