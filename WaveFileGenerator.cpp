@@ -1,4 +1,4 @@
-        // <BEGIN> Wav file generator
+        // <BEGIN> Wav file generator (Works also with Android NDK C++)
         std::ofstream f;
         const char *path = "/storage/emulated/0/Music/record.wav";
         f.open(path, std::ios::binary);
